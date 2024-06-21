@@ -7,8 +7,8 @@ I'm Letícia, a frontend developer who's super passionate about creating cool pr
 ## 🛠️ Skills I have
 
 - **Languages**: HTML, CSS, JavaScript, Typescript
-- **Frameworks/Libraries**: React, React Native, Angular
-- **Tools**: Git, VSCode, Docker
+- **Frameworks/Libraries**: React, React Native, ReduxJS, Angular
+- **Tools**: Git, VSCode, Docker, Scrum
 
 &nbsp;
 
