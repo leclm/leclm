@@ -23,7 +23,7 @@ I'm Letícia, a frontend developer who's super passionate about creating cool pr
 
 If you're interested in working together or just wanna say hi, hit me up:
 
-- [LinkedIn](www.linkedin.com/in/leticiachagaslima)
+- [LinkedIn](https://www.linkedin.com/in/leticiachagaslima/)
 - lelima039@gmail.com
 
 &nbsp;
