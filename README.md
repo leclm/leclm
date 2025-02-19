@@ -14,6 +14,7 @@ I'm Letícia, a frontend developer who's super passionate about creating cool pr
 
 ## 🌟 Projects I'm proud of
 
+- [Prepare Your Fav Meal](https://prepare-your-fav-meal.vercel.app/) - An interactive quiz for you to choose your favorite dishes and create the perfect menu! Built with React, TypeScript, and tested with Jest. Data is provided by TheMealDB API.
 - [Polaris](https://github.com/leclm/polaris) - This is my final project at college, it consists of a management system for a company that rents containers. It was developed using Angular, C# and MySQL
 - [TMDB Movies APP](https://github.com/leclm/Aplicativo-tmdb-movies) - An application to search, rate and create personalized lists of movies. For development, React Native and the TMDB API were used, performing authentication with Firebase and AsyncStorag
 
